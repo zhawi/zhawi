@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhawi
-- 👀 I’m interested in develop myself into a full developer, also interested in learning data engineering
-- 🌱 I’m currently learning python to data modelling
+- 👀 I’m interested in develop my skills in data engineering
+- 🌱 I’m currently learning scala with spark
 - 📫 How to reach me www.linkedin.com/in/pedro-martins-27b7a2155
 
 <!---
